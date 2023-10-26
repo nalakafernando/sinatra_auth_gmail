@@ -1,7 +1,7 @@
 source :gemcutter
 
 group :runtime do
-  gem 'haml',                '~>2.2.0'
+  gem 'haml',                '~>4.0.7'
   gem 'sinatra',             '~>1.0'
   gem 'rack',                '>=1.0.0'
   gem 'warden-googleapps',   '~>0.0.5'
